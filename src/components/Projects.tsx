@@ -19,7 +19,7 @@ export default function Projects() {
               Projects that <span className="text-gold-500">raise the skyline</span>
             </>
           }
-          desc="Commercial towers, coastal communities and industrial facilities delivered across Florida. A representative sample of the 480+ projects we've completed since 1998."
+          desc="Commercial towers, coastal communities and industrial facilities delivered across the Southeast. A representative sample of the 480+ projects we've completed since 1998."
         />
 
         <motion.div layout className="mt-12 flex flex-wrap gap-3">

@@ -38,7 +38,7 @@ export default function Testimonials() {
           eyebrow="Client Reviews"
           title={
             <>
-              Trusted by Florida&rsquo;s <span className="text-gold-500">builders of record</span>
+              Trusted by the Southeast&rsquo;s <span className="text-gold-500">builders of record</span>
             </>
           }
           align="center"

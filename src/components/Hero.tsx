@@ -46,13 +46,13 @@ export default function Hero() {
           </motion.p>
 
           <motion.h1 variants={item} className="mt-6 text-5xl leading-[0.95] sm:text-7xl lg:text-8xl">
-            We Build Florida&rsquo;s <span className="text-gold-500">Commercial</span> Future
+            We Build the Southeast&rsquo;s <span className="text-gold-500">Commercial</span> Future
           </motion.h1>
 
           <motion.p variants={item} className="mt-6 max-w-xl text-base leading-relaxed text-steel-400 sm:text-lg">
-            From waterfront towers in Miami to distribution hubs in Lakeland, Sedgwick Construction
-            delivers complex commercial, industrial and residential projects across Florida — on
-            schedule, on budget, built to hurricane code.
+            From waterfront towers in Miami to distribution hubs in Atlanta, Sedgwick
+            Construction delivers complex commercial, industrial and residential projects across the
+            Southeast — on schedule, on budget, built to code.
           </motion.p>
 
           <motion.div variants={item} className="mt-9 flex flex-wrap items-center gap-4">

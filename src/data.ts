@@ -10,7 +10,7 @@ import {
 export const COMPANY = {
   name: "Sedgwick Construction",
   legalName: "Sedgwick Construction LLC",
-  tagline: "Building Florida's Future Since 1998",
+  tagline: "Building the Southeast Since 1998",
   phone: "(813) 555-0142",
   phoneHref: "tel:+18135550142",
   email: "estimates@sedgwickconstruction.com",
@@ -122,7 +122,7 @@ export const PROJECTS: Project[] = [
   },
   {
     title: "SunCoast Logistics Hub",
-    location: "Lakeland, FL",
+    location: "Charlotte, NC",
     category: "Industrial",
     year: "2024",
     image: "/img/project-3.jpg",
@@ -131,7 +131,7 @@ export const PROJECTS: Project[] = [
   },
   {
     title: "Magnolia Medical Plaza",
-    location: "Orlando, FL",
+    location: "Nashville, TN",
     category: "Healthcare",
     year: "2023",
     image: "/img/project-6.jpg",
@@ -161,7 +161,7 @@ export const PROJECTS: Project[] = [
 export const PROJECT_FILTERS = ["All", "Commercial", "Residential", "Industrial", "Healthcare"];
 
 export const STATS = [
-  { value: 27, suffix: "+", label: "Years Building Florida" },
+  { value: 27, suffix: "+", label: "Years in Business" },
   { value: 480, suffix: "+", label: "Projects Delivered" },
   { value: 1.2, suffix: "M", label: "Sq Ft Constructed", decimals: 1 },
   { value: 0.72, suffix: "", label: "EMR Safety Record", decimals: 2 },
@@ -170,7 +170,7 @@ export const STATS = [
 export const ADVANTAGES = [
   "OSHA 30-certified crews on every site",
   "In-house estimating & BIM modeling",
-  "Florida-licensed & fully bonded",
+  "Licensed, bonded & fully insured",
   "3-year workmanship warranty",
 ];
 
@@ -223,8 +223,8 @@ export const TESTIMONIALS = [
 
 export const FAQS = [
   {
-    q: "What areas of Florida do you serve?",
-    a: "We are headquartered in Tampa and build statewide — with active projects in Miami, Orlando, Jacksonville, Naples, St. Petersburg and Lakeland.",
+    q: "Where do you build?",
+    a: "Our headquarters is in Tampa and we build throughout Florida and the Southeast — with active projects in Georgia, Tennessee and the Carolinas. We travel for the right project, wherever it is.",
   },
   {
     q: "Are you licensed and insured?",
@@ -251,6 +251,10 @@ export const SERVICE_AREAS = [
   "Jacksonville",
   "St. Petersburg",
   "Naples",
-  "Lakeland",
-  "Sarasota",
+  "Atlanta",
+  "Savannah",
+  "Nashville",
+  "Charlotte",
+  "Charleston",
+  "Birmingham",
 ];

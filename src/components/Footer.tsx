@@ -27,8 +27,8 @@ export default function Footer() {
           <div>
             <Logo />
             <p className="mt-6 max-w-xs text-sm leading-relaxed text-steel-500">
-              A Florida-certified general contractor building commercial, industrial, healthcare and
-              residential projects statewide since {COMPANY.founded}.
+              A Tampa-based general contractor building commercial, industrial, healthcare and
+              residential projects across the Southeast since {COMPANY.founded}.
             </p>
             <div className="mt-6 flex gap-3">
               {SOCIALS.map((s) => (

@@ -27,9 +27,9 @@ export default function About() {
               {new Date().getFullYear() - COMPANY.founded}
             </p>
             <p className="mt-1 text-xs leading-relaxed tracking-[0.2em] text-steel-400 uppercase">
-              Years building
+Years in
               <br />
-              Florida
+              Business
             </p>
           </div>
         </Reveal>
@@ -39,10 +39,10 @@ export default function About() {
             eyebrow="Who We Are"
             title={
               <>
-                Family-owned since 1998. <span className="text-gold-500">Florida-built.</span>
+                Family-owned since 1998. <span className="text-gold-500">Southeast-built.</span>
               </>
             }
-            desc={`${COMPANY.name} started with one truck, one crew and a simple promise: do the job right, document everything, and treat every client's budget like our own. Twenty-seven years later we're one of Florida's most trusted commercial contractors — still family-run, still on site.`}
+            desc={`${COMPANY.name} started with one truck, one crew and a simple promise: do the job right, document everything, and treat every client's budget like our own. Twenty-seven years later we're one of the Southeast's most trusted commercial contractors — still family-run, still on site.`}
           />
 
           <Reveal delay={0.15}>
